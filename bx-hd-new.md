@@ -60,5 +60,5 @@ xprv9s21ZrQH143K3KDWPNXDFTyieNdyp1ADhcEwqvL7t9CDvvvBaEuwjNVXovz6WXFQPJwWqKe17wNA
 $ bx hd-new -v 70615956 baadf00dbaadf00dbaadf00dbaadf00d
 ```
 ```
-tpubD6NzVbkrYhZ4XbUpwb3JpXFpXXa8CrP8cTkqzrnsnPV6Z1v3C15HRcUquADA8CMEawvRMMGoKnwg8fza8pPdFUcJH6uxZJJKkDYJJAGT53e
+tprv8ZgxMBicQKsPeQXeTomURYYS8ZhysPog3wXLPwStJ9LeiPeGvypYe4y6HhWadxZi4BB2dLSAMXVkoRi8AoeNXmjETeYFiyRi56BhFnkm9uh
 ```
