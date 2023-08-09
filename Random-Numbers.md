@@ -2,7 +2,7 @@ With the exception of [cert-new](bx-cert-new), any BX command that requires a ra
 
 > The `cert-new` command uses platform random number generation due to its reliance on the underlying [Curve ZMQ](http://curvezmq.org) implementation.
 
-The [seed](bx-seed) command is provided as a convenience, and is the only command that generates randomness.
+The [seed](bx-seed) command is provided as a convenience for demonstrative purposes only, and **should never be used to secure real bitcoin**.
 
 ```
 $ bx help seed

@@ -2,6 +2,9 @@ Generate a **private key** from a random **seed** value.
 ```sh
 $ bx seed | bx ec-new
 ```
+
+**Do not use `bx seed` to receive real bitcoin!** See [Random Numbers](Random-Numbers).
+
 ```
 dbcd61584666028ac88798bacdc76f4b (seed)
 4ce3eb6bd06c224e3c355352a488720efc5ac9fe527a219ad35178c3cf762350 (private key)
